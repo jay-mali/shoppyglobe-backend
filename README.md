@@ -44,7 +44,7 @@ MongoDB is now ready!
 ### 🔽 1. Download the Project Code
 
 - Visit the GitHub repo:  
-  👉 `https://github.com/your-username/shoppyglobe-backend`
+  👉 `https://github.com/jay-mali/shoppyglobe-backend.git`
 - Click the green **“Code”** button → **Download ZIP**
 - Extract the ZIP to your Desktop or any folder
 
